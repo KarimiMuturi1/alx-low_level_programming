@@ -1,1 +1,1 @@
-alx functions and nested loops project
+functions nested loops in c
